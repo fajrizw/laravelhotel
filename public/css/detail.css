@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body {
+    background-color: rgb(226, 253, 244);
+}
+
+div.container img {
+    width: 30%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+div.row {
+    padding: 15px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.button1 {
+    background-color: rgb(255, 1, 1);
+}
+
+
+.button {
+    color: #000000;
+}
